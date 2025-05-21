@@ -3,7 +3,7 @@
 ## [1.0.0] - 2025-05-11
 
 ### Added
-Added `root(a)` function in `functions.py` to perform division.   
+Added `root(a)` function in `functions.py` to perform square root.   
 - Initial release of the project.
 - Implemented `main.py` as the entry point of the application.
 - Added `functions.py` containing core functionalities.
