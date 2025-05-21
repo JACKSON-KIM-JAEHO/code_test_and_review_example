@@ -5,6 +5,8 @@
 ### Added
 Added `root(a)` function in `functions.py` to perform square root.   
 Added `multiply(a, b)` function in `functions.py` to perform multiplication.   
+Added `square(a)` function in `functions.py` to perform square.     
+
 
 - Initial release of the project.
 - Implemented `main.py` as the entry point of the application.
