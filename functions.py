@@ -10,7 +10,7 @@ def minus(a, b):
 
 def root(a):
     """Return the square root of a. Supports complex results for negative inputs."""
-    return cmath.sqrt(e)
+    return cmath.sqrt(a)
 
 def square(a):
     return a**2
