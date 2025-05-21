@@ -3,7 +3,8 @@
 ## [1.0.0] - 2025-05-11
 
 ### Added
-- Added `multiply(a, b)` function in `functions.py` to perform multiplication.   
+Added `root(a)` function in `functions.py` to perform square root.   
+Added `multiply(a, b)` function in `functions.py` to perform multiplication.   
 
 - Initial release of the project.
 - Implemented `main.py` as the entry point of the application.
