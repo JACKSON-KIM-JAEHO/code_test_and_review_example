@@ -8,6 +8,6 @@ def minus(a, b):
     """Subtract b from a."""
     return a - b
 
-def root(e):
+def root(a):
     """Return the square root of a. Supports complex results for negative inputs."""
     return cmath.sqrt(e)
